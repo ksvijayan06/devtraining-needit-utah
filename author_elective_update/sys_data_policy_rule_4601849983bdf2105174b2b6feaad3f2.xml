@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>ignore</disabled>
+        <field>comments</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-12 14:09:06</sys_created_on>
+        <sys_data_policy display_value="">36c0409983bdf2105174b2b6feaad3b2</sys_data_policy>
+        <sys_id>4601849983bdf2105174b2b6feaad3f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>comments</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_data_policy_rule_4601849983bdf2105174b2b6feaad3f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-12 14:09:06</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2284cba01bfebd50c84543f4bd4bcb42</instance_id>
+        <instance_name>dev225418</instance_name>
+        <name>sys_data_policy_rule_4601849983bdf2105174b2b6feaad3f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>comments</field><mandatory>true</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-12 14:09:06</sys_created_on><sys_data_policy display_value="">36c0409983bdf2105174b2b6feaad3b2</sys_data_policy><sys_id>4601849983bdf2105174b2b6feaad3f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>comments</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_data_policy_rule_4601849983bdf2105174b2b6feaad3f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-12 14:09:06</sys_updated_on><table>x_58872_needit_needit</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>2140213253</payload_hash>
+        <record_name>comments</record_name>
+        <reverted_from/>
+        <source>fe6e73798365f2105174b2b6feaad399</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-12 14:09:06</sys_created_on>
+        <sys_id>d341449983bdf2105174b2b6feaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b12e4da1b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-12 14:09:06</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>d741449950bdf21047c34a5a02166210</update_guid>
+        <update_guid_history>d741449950bdf21047c34a5a02166210:2140213253</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-12 14:30:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>020764b0d3ab4ec58b3644945bf27111</sys_id>
+        <sys_metadata>4601849983bdf2105174b2b6feaad3f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>comments</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_4601849983bdf2105174b2b6feaad3f2</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_4601849983bdf2105174b2b6feaad3f2">d341449983bdf2105174b2b6feaad311</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-12 14:30:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
